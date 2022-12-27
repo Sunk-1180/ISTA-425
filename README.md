@@ -2,14 +2,4 @@
 
 The following items within the repository are my/my groups submissions to the course assignments that were given.
 
-Course Learning Outcomes 
-By the end of the semester, all students (ISTA 425 / INFO 525) will be able to:
-
-Outline commonly used algorithms for game development
-
-Develop various algorithms within simple video games
-
-Evaluate different algorithms in different game applications
-
-Create custom algorithms for specific purposes in video games
-
+Algorithms are a crucial component of game development. This course will provide students with an in-depth introduction to algorithm concepts for game development. The course will cover basic algorithm and data structures concepts, basic math concepts related to game algorithms, physics and artificial intelligence based game algorithms that are supplemented with modern examples. Unity Game Engine along with C# programming language will be used throughout the class.
