@@ -1,4 +1,4 @@
-# ISTA-425
+#ISTA425
 
 The following items within the repository are my/my groups submissions to the course assignments that were given.
 
